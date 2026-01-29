@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Another cool projecte
 date: '2021-12-20'
 client: Syal Store
 description: >-
