@@ -32,13 +32,6 @@
                 "label": "Instagram",
                 "url": "https://Instagram.com/klawyard",
                 "icon": "instagram"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
