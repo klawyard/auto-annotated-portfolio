@@ -69,6 +69,7 @@ bottomSections:
           - ml-2
           - mr-2
           - mb-5
+          - mt-5
   - type: MediaGallerySection
     title: JACKET DESIGN
     subtitle: This is the subtitle
