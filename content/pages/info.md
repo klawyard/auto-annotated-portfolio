@@ -199,9 +199,11 @@ sections:
     subtitle: 'Contact: '
     colors: colors-f
     text: |
-      <klawyard@gmail.com>
+      **Email:**
 
-      **Whatsapp**
+      klawyard\@gmail.com
+
+      **Whatsapp:**
 
       +918968816216
   - type: DividerSection
