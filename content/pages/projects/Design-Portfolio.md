@@ -60,7 +60,7 @@ bottomSections:
         padding:
           - pt-12
           - pb-12
-          - pl-4
+          - pl-3
           - pr-4
         textAlign: center
         borderRadius: small
