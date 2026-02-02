@@ -67,4 +67,5 @@ bottomSections:
         borderWidth: 2
         margin:
           - ml-2
+          - mr-2
 ---
