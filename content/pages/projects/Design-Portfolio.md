@@ -65,4 +65,6 @@ bottomSections:
         textAlign: center
         borderRadius: small
         borderWidth: 2
+        margin:
+          - ml-2
 ---
