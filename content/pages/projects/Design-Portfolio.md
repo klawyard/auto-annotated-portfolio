@@ -68,4 +68,50 @@ bottomSections:
         margin:
           - ml-2
           - mr-2
+  - type: MediaGallerySection
+    title: JACKET DESIGN
+    subtitle: This is the subtitle
+    images:
+      - type: ImageBlock
+        url: /images/8.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/11.png
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/10.png
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/9.png
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-a
+    spacing: 0
+    columns: 2
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-3
+          - pr-3
+        textAlign: center
+        borderRadius: small
+        borderWidth: 2
+        margin:
+          - ml-2
+          - mr-2
 ---
