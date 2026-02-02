@@ -49,7 +49,6 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-one.md
       - content/pages/projects/Design-Portfolio.md
     styles:
       self:
