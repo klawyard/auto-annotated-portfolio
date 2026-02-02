@@ -199,11 +199,11 @@ sections:
     subtitle: 'Contact: '
     colors: colors-f
     text: |
-      [klawyard@gmail.com
+      <klawyard@gmail.com>
 
-      ](mailto:klawyard@gmail.com)**Whatsapp
+      Whatsapp
 
-      **+918968816216
+      +918968816216
   - type: DividerSection
     styles:
       self:
