@@ -56,7 +56,7 @@ bottomSections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-12
           - pb-12
