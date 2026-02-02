@@ -68,7 +68,7 @@ bottomSections:
         margin:
           - ml-2
           - mr-2
-          - mb-2
+          - mb-5
   - type: MediaGallerySection
     title: JACKET DESIGN
     subtitle: This is the subtitle
