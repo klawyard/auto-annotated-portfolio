@@ -196,7 +196,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact: w'
+    subtitle: 'Contact: '
     colors: colors-f
     text: |
       <klawyard@gmail.com>
