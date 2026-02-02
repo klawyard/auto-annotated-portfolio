@@ -64,4 +64,5 @@ bottomSections:
           - pr-4
         textAlign: center
         borderRadius: small
+        borderWidth: 1
 ---
