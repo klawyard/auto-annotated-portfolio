@@ -61,7 +61,7 @@ bottomSections:
           - pt-12
           - pb-12
           - pl-3
-          - pr-4
+          - pr-3
         textAlign: center
         borderRadius: small
         borderWidth: 2
