@@ -36,23 +36,7 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    text: >+
-      I’m a **graphic designer and marketer based in Chandigarh**, driven by one
-      simple goal — **helping brands introduce themselves to the world the right
-      way**.
-
-
-      I work at the intersection of **design, branding, and marketing**, turning
-      ideas into visuals and strategies that don’t just look good, but actually
-      *connect*. From shaping brand identities to crafting campaigns that speak
-      clearly and confidently, I focus on building brands people remember.
-
-
-      I believe good design isn’t decoration — it’s communication. Every color,
-      layout, and message should have a purpose.
-
-
-
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
