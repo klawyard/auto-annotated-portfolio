@@ -14,10 +14,30 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # I’m a **graphic designer and marketer based in Chandigarh**, driven by
+      one simple goal — **helping brands introduce themselves to the world the
+      right way**.
+
+
+      I work at the intersection of **design, branding, and marketing**, turning
+      ideas into visuals and strategies that don’t just look good, but actually
+      *connect*. From shaping brand identities to crafting campaigns that speak
+      clearly and confidently, I focus on building brands people remember.
+
+
+      I believe good design isn’t decoration — it’s communication. Every color,
+      layout, and message should have a purpose.
+
+
+      When I’m not working on brands, you’ll probably find me spending time with
+      my dog, who keeps me grounded, curious, and occasionally reminds me to
+      step away from the screen.
+
+
+      If you’re building something and want it to be seen, felt, and recognized
+      — let’s make it happen.
+
+
 
     media:
       type: ImageBlock
@@ -108,7 +128,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: https://github.com/
         styles:
           self:
             textAlign: left
@@ -116,7 +136,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: https://twitter.com/
         styles:
           self:
             textAlign: left
@@ -124,7 +144,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: https://www.linkedin.com/
         styles:
           self:
             textAlign: left
@@ -132,7 +152,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: https://codepen.io/
         styles:
           self:
             textAlign: left
@@ -140,7 +160,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: https://discord.com/
         styles:
           self:
             textAlign: left
@@ -148,7 +168,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: https://www.instagram.com/
         styles:
           self:
             textAlign: left
@@ -180,7 +200,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: WEB 1, 2, 3
       - type: Label
         label: React
       - type: Label
@@ -294,7 +314,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: Let’s talk... 💬
     colors: colors-f
     form:
       type: FormBlock
@@ -333,7 +353,7 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Submit 🚀
       styles:
         self:
           textAlign: center
