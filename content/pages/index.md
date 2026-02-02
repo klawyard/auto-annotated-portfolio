@@ -37,7 +37,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: CONTACT US
         altText: ''
         url: https://wa.me/+918968816216
         showIcon: false
