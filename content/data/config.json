@@ -28,17 +28,10 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "insta",
+                "label": "Instagram",
+                "url": "https://Instagram.com/klawyard",
+                "icon": "instagram"
             }
         ],
         "styles": {
@@ -48,7 +41,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/favicon.svg",
+            "url": "/images/klawyard logo white.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
@@ -85,14 +78,14 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+91 8968816216",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "Klawyard@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Sector-10, Panchkula, Haryana",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Klawyard 2025\n",
         "styles": {
             "self": {
                 "width": "narrow",
