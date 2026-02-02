@@ -199,7 +199,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [klawyard@gmail.com](mailto:thisismyemail.@myemail.me)
+      <klawyard@gmail.com>
   - type: DividerSection
     styles:
       self:
