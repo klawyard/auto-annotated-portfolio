@@ -241,18 +241,20 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2021-2024**
 
-          * ba computer sciense at a semi fancy school
+          *   VFX in Animation Filmmaking
 
-          **2014**
+          **2020-2021**
 
-          * react certificate somewhere
+          *   Srishti Institute of Art, Design and Technology
+              Bachelor of Fine Arts - BFA
 
-          **2011**
+          **2017-2019**
 
-          * my highschool
+          *   Advance Digital Graphics and Animation
+
         styles:
           self:
             textAlign: left
