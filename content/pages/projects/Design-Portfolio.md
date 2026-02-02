@@ -46,7 +46,7 @@ bottomSections:
         altText: Image four
         caption: Image four caption
         elementId: ''
-    colors: colors-a
+    colors: colors-d
     spacing: 0
     columns: 4
     aspectRatio: auto
