@@ -201,7 +201,7 @@ sections:
     text: |
       <klawyard@gmail.com>
 
-      Whatsapp
+      **Whatsapp**
 
       +918968816216
   - type: DividerSection
