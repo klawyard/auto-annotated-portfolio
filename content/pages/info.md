@@ -131,8 +131,6 @@ sections:
         label: Maya
       - type: Label
         label: CLO 3D
-      - type: Label
-        label: Swift
   - type: DividerSection
     styles:
       self:
