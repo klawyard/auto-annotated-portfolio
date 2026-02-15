@@ -122,7 +122,7 @@ sections:
       - type: Label
         label: Adobe After Effects
       - type: Label
-        label: Microsoft Office
+        label: Adobe Premier Pro
       - type: Label
         label: Next.js
       - type: Label
