@@ -213,13 +213,14 @@ sections:
         borderStyle: solid
   - type: CtaSection
     title: Let's do this
-    text: |+
+    text: |
       **Designs that don’t scroll. They stop.**
 
       Posters • Streetwear • AI Shoots
       Built for brands that want attention.
-      ↓ Work with Klawyard
 
+
+      ↓ Work with Klawyard
     actions:
       - type: Button
         label: Contact Us
