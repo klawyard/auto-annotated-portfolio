@@ -124,7 +124,7 @@ sections:
       - type: Label
         label: Adobe Premier Pro
       - type: Label
-        label: Next.js
+        label: Blender
       - type: Label
         label: Adobe Photoshop
       - type: Label
