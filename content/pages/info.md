@@ -41,7 +41,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/CLAW PASS.png
       altText: Hero image
     styles:
       self:
