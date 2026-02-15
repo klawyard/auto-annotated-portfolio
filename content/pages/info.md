@@ -128,7 +128,7 @@ sections:
       - type: Label
         label: Adobe Photoshop
       - type: Label
-        label: Pancakes
+        label: Maya
       - type: Label
         label: C++
       - type: Label
