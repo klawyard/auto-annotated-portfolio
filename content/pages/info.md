@@ -130,7 +130,7 @@ sections:
       - type: Label
         label: Maya
       - type: Label
-        label: C++
+        label: CLO 3D
       - type: Label
         label: Swift
   - type: DividerSection
