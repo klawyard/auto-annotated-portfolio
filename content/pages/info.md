@@ -222,7 +222,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: Contact Us
         altText: ''
         url: /
         showIcon: true
