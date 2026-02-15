@@ -120,7 +120,7 @@ sections:
       - type: Label
         label: Adobe Illustrator
       - type: Label
-        label: React
+        label: Adobe After Effects
       - type: Label
         label: Microsoft Office
       - type: Label
