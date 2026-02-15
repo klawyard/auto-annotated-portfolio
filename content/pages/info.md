@@ -224,7 +224,7 @@ sections:
       - type: Button
         label: Contact Us
         altText: ''
-        url: /
+        url: https://wa.me/+918968816216
         showIcon: true
         icon: arrowRight
         iconPosition: right
