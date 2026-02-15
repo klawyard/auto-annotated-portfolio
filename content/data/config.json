@@ -64,12 +64,6 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "INSTAGRAM",
                 "url": "https://github.com/netlify-templates",
                 "altText": "Netlify templates"
